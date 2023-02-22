@@ -73,7 +73,7 @@ public class Flower {
     public String toString() {
         return  "Название: " + name + ". " +
                 " Цвет: " + flowerColor + ". " +
-                " Страна происхождения: " + country +
+                " Страна происхождения: " + country + ". " +
                 " Цена: " + cost + " руб. " +
                 " Срок стояния: " + lifeSpan + " дней.";
     }

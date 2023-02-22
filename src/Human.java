@@ -60,7 +60,7 @@ public class Human {
         if (job != null && !job.isEmpty() && !job.isBlank()) {
             this.job = job;
         }else{
-            this.job = "Безработный";
+            this.job = "Трудоголик из Москвы!";
         }
     }
 
